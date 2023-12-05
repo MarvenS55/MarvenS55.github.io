@@ -18,17 +18,15 @@ My GitHub page is [http://github.com/MarvenS55](http://github.com/MarvenS55).
  accessible at a certain time. This lab also helped me gain a better 
  idea of how functions work and how they can be very helpful if used correctly.
 
- My Repository for lab 7 can be found here 
- 
- https://github.com/cpsc-fall-2023/cpsc-120-lab-07-marven.git
+My Repository for lab 7:
+https://github.com/cpsc-fall-2023/cpsc-120-lab-07-marven.git
  
 
  * Lab 11
 
 Lab 11, part 2 was a favorite because a number guessing game was something that I had already completed in a prior lab, however in Lab 11 I was able to use classes and functions which made this program far higher quality and it gave me a better understanding on how classes work as well as making me realize the importance of object orientated programming. 
 
-My Repository for lab 11 can be found here
-
+My Repository for lab 11:
 https://github.com/cpsc-fall-2023/cpsc-120-lab-11-marven-jonathan.git
 
 
@@ -36,6 +34,5 @@ https://github.com/cpsc-fall-2023/cpsc-120-lab-11-marven-jonathan.git
 
 Lab 9, part 1 was a favorite because I was able to filter specific results out such as the highest and lowest judge score which I thought was very interesting because this can be very helpful in data analysis, I also learned how to average the remaining scores which was new to me and is something that can also be extremely helpful in data analysis. 
 
-My Repository for lab 9 can be found here
-
+My repository for Lab 9 is:
 https://github.com/cpsc-fall-2023/cpsc-120-lab-11-marven-jonathan.git
