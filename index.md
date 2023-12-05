@@ -36,4 +36,4 @@ My Repository for lab 11:
 Lab 9, part 1 was a favorite because I was able to filter specific results out such as the highest and lowest judge score which I thought was very interesting because this can be very helpful in data analysis, I also learned how to average the remaining scores which was new to me and is something that can also be extremely helpful in data analysis. 
 
 My repository for Lab 9 is:
-  [https://github.com/cpsc-fall-2023/cpsc-120-lab-09-marven-jonathan.git](https://github.com/cpsc-fall-2023/cpsc-120-lab-09-marven-jonathan.git)
+  [https://github.com/cpsc-fall-2023/cpsc-120-lab-09-vance-and-marven.git](https://github.com/cpsc-fall-2023/cpsc-120-lab-09-vance-and-marven.git)
